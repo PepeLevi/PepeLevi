@@ -65,7 +65,7 @@ I manage the [gaara](https://gaara0918273645.xyz/) website, a dynamic platform w
 
 Feel free to reach out or connect with me on the following platforms:
 
-- **[Portfolio & Art Projects](https://gaara0918273645.xyz/)**
+- **[Art Projects](https://gaara0918273645.xyz/)**
 - **[Instagram](https://www.instagram.com/levichula/)**
 - **[GitHub Profile](https://github.com/PepeLevi)**
 
