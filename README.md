@@ -12,13 +12,13 @@ I manage the [gaara](https://gaara0918273645.xyz/) website, a dynamic platform w
 
 #### HTMAT2
 
-<img src="https://github.com/PepeLevi/HTMAT2/blob/main/image1.png" alt="HTMAT2 Screenshot" width="300" />
+<img src="https://github.com/PepeLevi/HTMAT2/blob/main/image1.png" alt="HTMAT2 Screenshot" width="500" />
 - **Description**: An ongoing project developed with Three.js and Cannon.js. Navigate through a 3D environment, interact with tools and machinery, and experience immersive web-based graphics and physics.
 - **GitHub Repository**: [HTMAT2](https://github.com/PepeLevi/HTMAT2)
 
 #### Cub3D WebAssembly
 
-<img src="https://github.com/PepeLevi/Cub3d_webasm/blob/main/image1.png" alt="Cub3D WebAssembly" width="300" />
+<img src="https://github.com/PepeLevi/Cub3d_webasm/blob/main/image1.png" alt="Cub3D WebAssembly" width="500" />
 - **Description**: A modified version of the Cub3D project compatible with Emscripten, allowing it to run in web browsers using WebAssembly.
 - **Live Demo**: [Cub3D WebAssembly](https://pepelevi.github.io/Cub3d_webasm/)
 
