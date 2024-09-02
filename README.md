@@ -28,6 +28,7 @@ I manage the [gaara](https://gaara0918273645.xyz/) website, a dynamic platform w
 - **Web Technologies**: HTML, CSS, Three.js, Emscripten
 - **Tools & Technologies**: Docker, Git, WebAssembly
 - **Graphics & Game Development**: Three.js, Cannon.js, OpenGL
+  
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" style="width: 50px;"/>
 </a>
