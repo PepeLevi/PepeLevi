@@ -41,8 +41,3 @@ Feel free to reach out or connect with me on the following platforms:
 Thank you for visiting my profile! I'm always open to collaborations and new opportunities that combine art and technology.
 
 ---
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/63303990/150698103-7e908ff3-abf8-4b0f-ad54-07a76b6c45e2.png" alt="Creative Banner" width="600">
-</div>
