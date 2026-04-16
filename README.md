@@ -2,11 +2,33 @@
 
 ## 🎨 Artist & 💻 Coder
 
-Hello! I'm **PepeLevi**, a passionate artist and coder with a unique blend of creativity and technical skills. I studied art at **UCM Madrid** and honed my coding expertise at **42 Berlin**. My work bridges the gap between artistic expression and cutting-edge technology.
+Hello! I'm **PepeLevi** — an artist and coder working at the intersection of digital imagery, interactive systems, and speculative narratives.
+I publish, speak, exhibit, and collaborate internationally; see a snapshot of recent activity in the sections below.
 
 ### About Me
 
-I manage the [gaara](https://gaara0918273645.xyz/) website, a dynamic platform where I and other artists can showcase our work. This project serves as a canvas for creativity and innovation, exploring new ways to present art in the digital age.
+Contact: [levijr6@gmail.com](mailto:levijr6@gmail.com) • [Instagram (@levi.yitzhak)](https://www.instagram.com/levi.yitzhak/) • [X (@terro_tools)](https://x.com/terro_tools)
+
+#### Publications (2025-)
+- [DENPA DOLL JOURNAL ILYSM](https://soloshow.online/denpa_doll_journal.html) — Collection 1 Starter Pack
+
+#### Talks (2025-)
+- [Taller XVS Center II — Matadero Madrid](https://www.mataderomadrid.org/programacion/xvs-center-ii-xeno-tuning-aliens-ilegales-furries-aceleradas-y-otras-imagenes-de-lo)
+- [Proyecto 1 LAB4 Futuros Raros — Medialab Matadero](https://www.mataderomadrid.org/programacion/proyecto-1-ktown-futuras-epistemologias-de-la-intelogenesis)
+
+#### Exhibitions (selected)
+- 2026-: [Processing Community Day (Coimbra)](https://pcdcoimbra.dei.uc.pt/2026/)
+- 2025-: [Shanghai 在 CEDAR (邊界_RG)](https://x.com/bianjie_systems/status/1986426392376995894)
+- 2025-: [festival RE/UTOPÍA (Cehegín)](https://nigredo.tv/festival-reutopia/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnb_CvdPQ9RGmRFQDY6uMZS7RQZGlkhirZfPAIVd41fUPv41p0iF1dkBZK1So_aem_ILmY9dVTsIS5b7S8YPHgqQ)
+- 2024-: [C.01 — EcoFascism and the FurryTale (DeepWeepGallery)](https://deepwebgallery.substack.com/p/exhibition-c01-ecofascism-and-the)
+- 2024-: [7780x (Chaiz Estudio)](https://www.instagram.com/7780___________x/)
+- 2024-: [mom, postinternet is not a phase :( (Okay Space)](https://acollectiveofcollectives.com/okay-10)
+- 2024-: [28 END-YEAR COLLABORATION MARKET 2024 (Bangkok)](https://www.instagram.com/twenty8twenty8twenty8/)
+
+#### Residencies (selected)
+- 2025-: [PROYECTO 1 / +Ktown: Futuras epistemologías de la intelogénesis](https://www.mataderomadrid.org/programacion/proyecto-1-ktown-futuras-epistemologias-de-la-intelogenesis)
+- 2022-: [/Collaborative Prototyping Lab #01/ (Xenoimage Dataset)](https://www.medialab-matadero.es/proyectos/xenoimage-dataset)
+
 
 ### 🚀 Key Projects
 
@@ -65,8 +87,10 @@ I manage the [gaara](https://gaara0918273645.xyz/) website, a dynamic platform w
 
 Feel free to reach out or connect with me on the following platforms:
 
-- **[Art Projects](https://gaara0918273645.xyz/)**
-- **[Instagram](https://www.instagram.com/levichula/)**
+- **[Art Projects](https://levi.yitzhak.xyz/)**
+- **[Email](mailto:levijr6@gmail.com)**
+- **[Instagram (@levi.yitzhak)](https://www.instagram.com/levi.yitzhak/)**
+- **[X (@terro_tools)](https://x.com/terro_tools)**
 - **[GitHub Profile](https://github.com/PepeLevi)**
 
 Thank you for visiting my profile! I'm always open to collaborations and new opportunities that combine art and technology.
