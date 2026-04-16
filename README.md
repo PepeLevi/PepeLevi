@@ -87,7 +87,7 @@ Contact: [levijr6@gmail.com](mailto:levijr6@gmail.com) • [Instagram (@levi.yit
 
 Feel free to reach out or connect with me on the following platforms:
 
-- **[Art Projects](https://levi.yitzhak.xyz/)**
+- **[Art Projects](https://leviyitzhak.xyz/)**
 - **[Email](mailto:levijr6@gmail.com)**
 - **[Instagram (@levi.yitzhak)](https://www.instagram.com/levi.yitzhak/)**
 - **[X (@terro_tools)](https://x.com/terro_tools)**
